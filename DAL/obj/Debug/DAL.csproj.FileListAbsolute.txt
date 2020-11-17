@@ -1,0 +1,9 @@
+E:\TaiLieuHocTap\HOU\CongNgheThongTin\Learn_IT\NhapMonCNPM\PR_QuanLyQuanCaPhe\DAL\bin\Debug\DAL.dll
+E:\TaiLieuHocTap\HOU\CongNgheThongTin\Learn_IT\NhapMonCNPM\PR_QuanLyQuanCaPhe\DAL\bin\Debug\DAL.pdb
+E:\TaiLieuHocTap\HOU\CongNgheThongTin\Learn_IT\NhapMonCNPM\PR_QuanLyQuanCaPhe\DAL\bin\Debug\DTO.dll
+E:\TaiLieuHocTap\HOU\CongNgheThongTin\Learn_IT\NhapMonCNPM\PR_QuanLyQuanCaPhe\DAL\bin\Debug\DTO.pdb
+E:\TaiLieuHocTap\HOU\CongNgheThongTin\Learn_IT\NhapMonCNPM\PR_QuanLyQuanCaPhe\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+E:\TaiLieuHocTap\HOU\CongNgheThongTin\Learn_IT\NhapMonCNPM\PR_QuanLyQuanCaPhe\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\TaiLieuHocTap\HOU\CongNgheThongTin\Learn_IT\NhapMonCNPM\PR_QuanLyQuanCaPhe\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\TaiLieuHocTap\HOU\CongNgheThongTin\Learn_IT\NhapMonCNPM\PR_QuanLyQuanCaPhe\DAL\obj\Debug\DAL.dll
+E:\TaiLieuHocTap\HOU\CongNgheThongTin\Learn_IT\NhapMonCNPM\PR_QuanLyQuanCaPhe\DAL\obj\Debug\DAL.pdb
